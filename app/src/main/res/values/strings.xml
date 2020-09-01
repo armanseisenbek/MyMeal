@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMeal</string>
+    <string name="request_timed_out">Request timed out, check your internet connection :(</string>
+    <string name="query_hint">chicken…</string>
+</resources>
