@@ -3,6 +3,6 @@ An android application which interacts with REST API from themealdb.com. The app
 # Screenshots
 <p>
   <img src="https://github.com/armanseisenbek/MyMeal/blob/master/screenshots/Screenshot1.jpg" width="250" height="100%" title="hover text">
-  <img src="https://github.com/armanseisenbek/MyMeal/blob/master/screenshots/screenshot2.jpg" width="250" height="100%" title="hover text">
-  <img src="https://github.com/armanseisenbek/MyMeal/blob/master/screenshots/screenshot3.jpg" width="250" height="100%" title="hover text">
+  <img src="https://github.com/armanseisenbek/MyMeal/blob/master/screenshots/Screenshot2.jpg" width="250" height="100%" title="hover text">
+  <img src="https://github.com/armanseisenbek/MyMeal/blob/master/screenshots/Screenshot3.jpg" width="250" height="100%" title="hover text">
 </p>
